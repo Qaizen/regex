@@ -6,5 +6,7 @@ This challenge was to create a gist template explaining regex, regular expressio
 ### GitHub Link:
 https://github.com/Qaizen/regex
 
-#### Screenshot of regex-gist
-![image](https://user-images.githubusercontent.com/92459709/174492020-eb767dd9-f4dd-411e-b809-97ccc21fbde0.png)
+### GitHub Gist Link:
+https://gist.github.com/Qaizen/1ed0c2206b7a2639743263554f3a03f5 
+
+
